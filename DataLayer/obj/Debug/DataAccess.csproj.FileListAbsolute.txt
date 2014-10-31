@@ -1,0 +1,12 @@
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DataLayer\bin\Debug\DataLayer.dll.config
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DataLayer\bin\Debug\DataLayer.dll
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DataLayer\bin\Debug\DataLayer.pdb
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DataLayer\bin\Debug\DomainModel.dll
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DataLayer\bin\Debug\EntityFramework.dll
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DataLayer\bin\Debug\DomainModel.pdb
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DataLayer\bin\Debug\EntityFramework.xml
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DataLayer\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DataLayer\obj\Debug\DataLayer.dll
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DataLayer\obj\Debug\DataLayer.pdb

@@ -1,0 +1,6 @@
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DomainModel\bin\Debug\DomainModel.dll.config
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DomainModel\bin\Debug\DomainModel.dll
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DomainModel\bin\Debug\DomainModel.pdb
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DomainModel\obj\Debug\DomainModel.dll
+c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\DomainModel\obj\Debug\DomainModel.pdb

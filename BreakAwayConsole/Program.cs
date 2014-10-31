@@ -2,9 +2,12 @@
 using DomainModel;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//using System.Data.Entity.Validation;
+//using System.Diagnostics;
 
 namespace BreakAwayConsole
 {
@@ -28,6 +31,8 @@ namespace BreakAwayConsole
 
         static void Main(string[] args)
         {
+            Database.SetInitializer(
+                new DropCreateDatabaseIfModelChanges<BreakAwayContext>());
             InsertDestination();
         }
     }
