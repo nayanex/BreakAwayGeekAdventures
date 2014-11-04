@@ -11,14 +11,14 @@ namespace DomainModel
     public class Destination
     {
         public int DestinationId { get; set; }
-        [Required]
-        [MaxLength(200)]
-        [MinLength(4)]
+        //[Required]
+        //[MaxLength(200)]
+        //[MinLength(4)]
         public string Name { get; set; }
         public string Country { get; set; }
-        [MaxLength(500)]
+        //[MaxLength(500)]
         public string Description { get; set; }
-        [Column(TypeName="image")]
+        //[Column(TypeName="image")]
         public byte[] Photo { get; set; }
 
         public List<Lodging> Lodgings { get; set; }

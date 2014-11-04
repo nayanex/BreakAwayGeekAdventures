@@ -12,3 +12,17 @@ c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventu
 c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\BreakAwayConsole\obj\Debug\BreakAwayConsole.csprojResolveAssemblyReference.cache
 c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\BreakAwayConsole\obj\Debug\BreakAwayConsole.exe
 c:\users\nayana.abreu\documents\visual studio 2012\Projects\BreakAwayGeekAdventures\BreakAwayConsole\obj\Debug\BreakAwayConsole.pdb
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\bin\Debug\BreakAwayConsole.exe.config
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\obj\Debug\BreakAwayConsole.exe
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\obj\Debug\BreakAwayConsole.pdb
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\bin\Debug\BreakAwayConsole.exe
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\bin\Debug\BreakAwayConsole.pdb
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\bin\Debug\DataLayer.dll
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\bin\Debug\DomainModel.dll
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\bin\Debug\EntityFramework.dll
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\bin\Debug\DataLayer.pdb
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\bin\Debug\DomainModel.pdb
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\bin\Debug\EntityFramework.xml
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nayana\Documents\GitHub\BreakAwayGeekAdventures\BreakAwayConsole\obj\Debug\BreakAwayConsole.csprojResolveAssemblyReference.cache
