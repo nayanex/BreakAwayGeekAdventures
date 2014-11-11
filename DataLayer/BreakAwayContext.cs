@@ -13,6 +13,7 @@ namespace DataLayer
     {
         public DbSet<Destination> Destinations { get; set; }
         public DbSet<Lodging> Lodgings { get; set; }
+        public DbSet<Trip> Trips { get; set; }
 
         public class DestinationConfiguration :
             EntityTypeConfiguration<Destination>
