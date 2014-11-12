@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Destination.cs" />
     <Compile Include="Lodging.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Trip.cs" />
   </ItemGroup>
